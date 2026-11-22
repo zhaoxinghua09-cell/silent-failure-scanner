@@ -1,10 +1,10 @@
 # Silent Failure Scanner (静默失败扫描器)
-[![Trust Score](https://img.shields.io/badge/Trust%20Score-100%2F100%20A+-2ea44f.svg)](https://github.com/zhaoxinghua09-cell/skillgate)
+[![Trust Score](https://img.shields.io/badge/Trust%20Score%20(self-assessed)-100%2F100%20A+-2ea44f.svg)](https://github.com/zhaoxinghua09-cell/skillgate)
 
 > **Catch silent AI failures before they ship.**
 > **在静默失败上线前抓住它们。**
 
-[![LGD VERIFIED](https://img.shields.io/badge/LGD%20VERIFIED-100%2F100-2563eb)](https://github.com/zhaoxinghua09-cell/silent-failure-scanner)
+[![LGD VERIFIED](https://img.shields.io/badge/LGD%20VERIFIED%20(self-assessed)-100%2F100-2563eb)](https://github.com/zhaoxinghua09-cell/silent-failure-scanner)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
